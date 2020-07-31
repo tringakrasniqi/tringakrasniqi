@@ -1,5 +1,7 @@
 ### Hi, I'm Tringa! 👋
 
+![Cover image](https://github.com/tringakrasniqi/tringakrasniqi/blob/master/GITHUB%20README.png)
+
 I'm a software engineer and aspiring content creator ^_^ 
 
  🌱 I’m currently learning Django and Android development with Kotlin
