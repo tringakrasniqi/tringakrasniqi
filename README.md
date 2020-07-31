@@ -1,4 +1,4 @@
-### Hi, I'm Tringa! 👋
+# Hi, I'm Tringa! 👋
 
 ![Cover image](https://github.com/tringakrasniqi/tringakrasniqi/blob/master/GITHUB%20README.png)
 
