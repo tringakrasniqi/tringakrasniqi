@@ -1,12 +1,12 @@
 # Hi, I'm Tringa! 👋
 
-![Cover image](https://github.com/tringakrasniqi/tringakrasniqi/blob/master/GITHUB%20README.png)
+<!--![Cover image](https://github.com/tringakrasniqi/tringakrasniqi/blob/master/GITHUB%20README.png) -->
 
-I'm a software engineer and aspiring content creator ^_^ 
+I'm a software engineer and content creator ^_^ 
 
- 🌱 I’m currently learning Django and Android development with Kotlin
+ 🌱 I’m currently learning VueJs and Android  
 
-You can also find me in:
+You can find me in:
 [Instagram](https://www.instagram.com/tringacodes/?hl=en) || 
 [Medium](https://medium.com/@tringakrasniqi) ||
 [DEV](https://dev.to/tringakrasniqi)
