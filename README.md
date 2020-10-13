@@ -8,7 +8,7 @@ I'm a software engineer and content creator ^_^
 
 You can find me in:
 [Instagram](https://www.instagram.com/tringacodes/?hl=en) || 
-[Medium](https://medium.com/@tringakrasniqi) ||
+[TringaCodes' Blog](https://tringacodes.com) ||
 [DEV](https://dev.to/tringakrasniqi)
 
 
