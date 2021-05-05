@@ -4,8 +4,8 @@
 
 I'm a software engineer and content creator ^_^ 
 
- 🌱 I’m currently learning VueJs and Android  
-
+ 🌱 I’m currently learning React
+ 
 You can find me in:
 [Instagram](https://www.instagram.com/tringacodes/?hl=en) || 
 [TringaCodes' Blog](https://tringacodes.com) ||
